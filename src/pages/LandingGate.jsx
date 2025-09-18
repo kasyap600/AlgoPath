@@ -97,7 +97,7 @@ export default function LandingGate() {
         <div className="flex items-center gap-3">
           <img src={BrandLogo} alt="DSA Tracker" className="w-10 h-10" />
           <div>
-            <div className="text-lg font-semibold tracking-tight">DSA Tracker</div>
+            <div className="text-lg font-semibold tracking-tight">Algo Path</div>
             <div className="text-xs text-slate-500 dark:text-slate-400">practice • track • level up</div>
           </div>
         </div>
