@@ -74,7 +74,7 @@ export default function Register() {
               <div className="flex items-center gap-3 mb-8">
                 <img src="/assets/brand.svg" alt="DSA Tracker logo" className="w-10 h-10" />
                 <div>
-                  <h3 className="text-xl font-semibold tracking-tight text-slate-900 dark:text-white">DSA Tracker</h3>
+                  <h3 className="text-xl font-semibold tracking-tight text-slate-900 dark:text-white">Algo Path</h3>
                   <p className="text-xs text-neutral-500 dark:text-neutral-400 -mt-0.5">
                     Build streaks. Track topics. Crush interviews.
                   </p>
