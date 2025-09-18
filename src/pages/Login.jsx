@@ -148,7 +148,7 @@ export default function Login() {
                 <div className="flex items-center gap-3 mb-6">
                   <img src="/assets/brand.svg" alt="DSA Tracker" className="w-10 h-10" />
                   <div>
-                    <h3 className="text-xl font-semibold text-slate-900 dark:text-white">DSA Tracker</h3>
+                    <h3 className="text-xl font-semibold text-slate-900 dark:text-white">Algo Path</h3>
                     <p className="text-xs text-slate-500 dark:text-slate-400">Practice · Track · Level up</p>
                   </div>
                 </div>
