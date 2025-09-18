@@ -306,7 +306,7 @@ export default function LandingGate() {
             <div className="p-6">
               <div className="flex items-start justify-between gap-4">
                 <div>
-                  <h3 className="text-lg font-semibold">Welcome to DSA Tracker</h3>
+                  <h3 className="text-lg font-semibold">Welcome to Algo Path</h3>
                   <p className="text-sm text-slate-500 dark:text-slate-400 mt-1">
                     To continue, please login or create a free account.
                   </p>
